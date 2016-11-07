@@ -1,0 +1,12 @@
+{
+  "name": "generator-js-zg-1",
+  "version": "0.0.1",
+  "description": "",
+  "files": ["generators/app"],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
