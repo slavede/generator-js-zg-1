@@ -87,7 +87,8 @@ module.exports = generators.Base.extend({
                 pageTitle : this.pageTitle,
                 description : this.description,
                 useLess : this.useLess,
-                useSass : this.useSass
+                useSass : this.useSass,
+                useBootstrap : this.useBootstrap
             };
 
        		this.fs.copy(
